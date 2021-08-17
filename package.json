@@ -1,0 +1,20 @@
+{
+  "name": "api-country",
+  "version": "1.0.0",
+  "description": "Obtiene informacion de los paises, sus estados y ciudades",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
