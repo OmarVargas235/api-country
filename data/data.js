@@ -101,6 +101,105 @@ const regions = [
 		]
 	},
 	{
+		"country": "Bahamas",
+		"regions": [  "Acklins", "Ábaco Central", "Ábaco Meridional", "Ábaco Septentrional",
+		"Andros Central", "Andros Meridional", "Andros Septentrional", "Berry Islands", "Bimini",
+		"Black Point", "Cat Island", "Crooked Island", "Eleuthera Central", "Eleuthera Meridional",
+		"Eleuthera Septentrional", "Freeport", "Gran Bahama Occidental", "Gran Bahama Oriental",
+		"Grand Cay", "Green Turtle Cay", "Harbour Island", "Hope Town", "Inagua", "Long Island",
+		"Mangrove Cay", "Mayaguana", "Moore’s Island", "Nueva Providencia", "Ragged Island",
+		"Rum Cay", "San Salvador", "Spanish Wells" ]
+	},
+	{
+		"country": "Bahrein",
+		"regions": [ "Al-Muḥarraq", "Capital", "Meridional", "Septentrional" ]
+	},
+	{
+		"country": "Bangladesh",
+		"regions": [ "Barisal Division", "Chittagong", "Dhaka Division", "Khulna Division",
+		"Mymensingh Division", "Rajshahi Division", "Rangpur Division", "Sylhet Division"]
+	},
+	{
+		"country": "Barbados",
+		"regions": [ "Christ Church", "Saint Andrew", "Saint George", "Saint James", "Saint John",
+		"Saint Joseph", "Saint Lucy", "Saint Michael", "Saint Peter", "Saint Philip",
+		"Saint Thomas" ]
+	},
+	{
+		"country": "Bielorrusia",
+		"regions": [ "Brėst", "Homiel", "Hrodna", "Mahiloŭ", "Minsk", "Viciebsk" ]
+	},
+	{
+		"country": "Belgica",
+		"regions": [ "Bruselas", "Flandes", "Valonia"]
+	},
+	{
+		"country": "Belice",
+		"regions": [ "Belice", "Cayo", "Corozal", "Orange Walk", "Stann Creek", "Toledo"]
+	},
+	{
+		"country": "Benin",
+		"regions": [ "Alibori", "Atacora", "Atlántico", "Borgou", "Colinas", "Couffo", "Donga",
+		"Litoral", "Meseta", "Mono", "Ouémé", "Zou"]
+	},
+	{
+		"country": "Bermuda",
+		"regions": [ "Devonshire", "Hamilton", "Paget", "Pembroke", "Saint George", "Sandys",
+		"Smith", "Southampton", "Warwick" ]
+	},
+	{
+		"country": "Butan",
+		"regions": [ "Bumthang", "Chhukha", "Dagana", "Gasa", "Haa", "Lhuentse", "Monggar",
+		"Paro", "Pema Gatshel", "Punakha", "Samdrup Jongkhar", "Samtse", "Sarpang", "Timbu",
+		"Trashi Yangtse", "Trashigang", "Trongsa", "Tsirang", "Wangdue Phodrang", "Zhemgang" ]
+	},
+	{
+		"country": "Bolivia",
+		"regions": [ "Beni", "Chuquisaca", "Cochabamba", "La Paz", "Oruro", "Pando", "Potosí",
+		"Santa Cruz", "Tarija" ]
+	},
+	{
+		"country": "Bosnia and Herzegovina",
+		"regions": [ "Districto de Brčko", "Republica Serbisca",
+		"Federación de Bosnia y Herzegovina" ]
+	},
+	{
+		"country": "Botsuana",
+		"regions": [ "Central", "Ghanzi", "Kgalagadi", "Kgatleng", "Kweneng", "Meridional",
+		"Noroccidental", "Nororiental", "Suroriental" ]
+	},
+	{
+		"country": "Brasil",
+		"regions": [ "Acre", "Alagoas", "Amapá", "Amazonas", "Bahía", "Ceará", "Espírito Santo",
+		"Goiás", "Maranhão", "Mato Grosso", "Mato Grosso del Sur", "Minas Gerais", "Pará",
+		"Paraíba", "Paraná", "Pernambuco", "Piauí", "Río de Janeiro", "Río Grande del Norte	",
+		"Río Grande del Sur", "Rondônia", "Roraima", "Santa Catarina", "São Paulo", "Sergipe",
+		"Tocantins" ]
+	},
+	{
+		"country": "Brunei",
+		"regions": [ "Belait", "Brunéi-Muara", "Temburong", "Tutong" ]
+	},
+	{
+		"country": "Bulgaria",
+		"regions": [ "Blagoevgrad", "Burgas", "Dobrič", "Gabrovo", "Haskovo", "Jambol", "Kărdžali",
+		"Kjustendil", "Loveč", "Montana", "Pazardžik", "Pernik", "Pleven", "Plovdiv", "Razgrad",
+		"Ruse", "Silistra", "Sliven", "Smoljan", "Sofía", "Sofía-Capital", "Stara Zagora", "Šumen",
+		"Tărgovište", "Varna", "Veliko Tărnovo", "Vidin", "Vratsa" ]
+	},
+	{
+		"country": "Burkina Faso",
+		"regions": [ "Boucle du Mouhoun", "Cascadas", "Centro", "Centro-Este", "Centro-Norte",
+		"Centro-Oeste", "Centro-Sur", "Cuencas Altas", "Este", "Meseta Central", "Norte",
+		"Sahel", "Suroeste" ]
+	},
+	{
+		"country": "Burundi",
+		"regions": [ "Bubanza", "Bururi", "Buyumbura Ciudad", "Buyumbura Rural", "Cankuzo",
+		"Cibitoke", "Guitega", "Karuzi", "Kayanza", "Kirundo", "Makamba", "Muramvya", "Muyinga",
+		"Mwaro", "Ngozi", "Rumonge", "Rutana", "Ruyigi" ]
+	},
+	{
 		"country": "Venezuela",
 		"regions": [ "Delta Amacuro", "Distrito Capital", "Estado Amazonas", "Estado Anzoategui",
 		"Estado Apure", "Estado Aragua", "Estado Barinas", "Estado Bolivar", "Estado Carabobo",
