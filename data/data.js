@@ -200,6 +200,124 @@ const regions = [
 		"Mwaro", "Ngozi", "Rumonge", "Rutana", "Ruyigi" ]
 	},
 	{
+		"country": "Camboya",
+		"regions": [ "Banteay Meanchey", "Battambang", "Kampong Cham", "Kampong Chhnang",
+		"Kampong Speu", "Kampong Thom", "Kampot", "Kandal", "Kep", "Koh Kong", "Kratie",
+		"Mondul Kiri", "Otdar Meanchey", "Pailin", "Preah Sihanouk", "Preah Vihear", "Prey Veng",
+		"Pursat", "Ratanak Kiri", "Siem Reap", "Stung Treng", "Svay Rieng", "Takeo",
+		"Tboung Khmum" ]
+	},
+	{
+		"country": "Camerun",
+		"regions": [ "Adamaoua", "Centro", "Este", "Extremo Norte", "Litoral", "Noroeste",
+		"Norte", "Oeste", "Sur", "Suroeste" ]
+	},
+	{
+		"country": "Canada",
+		"regions": [ "Alberta", "Columbia Británica", "Isla del Príncipe Eduardo", "Manitoba",
+		"Nueva Escocia", "Nuevo Brunswick", "Ontario", "Quebec", "Saskatchewan",
+		"Terranova y Labrador", "Suroeste", "Nunavut", "Yukón" ]
+	},
+	{
+		"country": "Cabo Verde",
+		"regions": [ "Boa Vista", "Brava", "Maio", "Mosteiros", "Paul", "Porto Novo", "Praia",
+		"Ribeira Brava", "Ribeira Grande", "Ribeira Grande de Santiago", "Sal", "Santa Catarina",
+		"Santa Catarina do Fogo", "Santa Cruz", "São Domingos", "São Filipe", "Tarrafal",
+		"São Lourenço dos Órgãos", "São Miguel", "São Salvador do Mundo", "São Vicente",
+		"Tarrafal de São Nicolau" ]
+	},
+	{
+		"country": "Cayman Island",
+		"regions": [ "Bodden Town", "East End", "George Town", "North Side", "Sister Island",
+		"West Bay"]
+	},
+	{
+		"country": "Chad",
+		"regions": [ "Bodden Town", "East End", "George Town", "North Side", "Sister Island",
+		"Ennedi Oeste", "Guéra", "Hadjer-Lamis", "Kanem", "Lac", "Logone Occidental",
+		"Logone Oriental", "Mandoul", "Mayo-Kebbi Este", "Mayo-Kebbi Oeste", "Moyen-Chari",
+		"Ouaddaï", "Salamat", "Sila", "Tandjilé", "Tibesti", "Wadi Fira",  ]
+	},
+	{
+		"country": "Chile",
+		"regions": [ "Antofagasta", "Arica y Parinacota", "Atacama",
+		"Aysén del General Carlos Ibáñez del Campo", "Biobío", "Coquimbo", "La Araucanía",
+		"Libertador General Bernardo O’Higgins", "Los Lagos", "Los Ríos",
+		"Magallanes y Antártica Chilena", "Maule", "Ñuble", "Región Metropolitana de Santiago",
+		"Tarapacá", "Valparaíso" ]
+	},
+	{
+		"country": "China",
+		"regions": [ "Ānhuī", "Cantón", "Fújiàn", "Gānsù", "Guìzhōu", "Hǎinán", "Héběi",
+		"Hēilóngjiāng", "Hénán", "Húběi", "Húnán", "Jiāngsū", "Jiāngxī", "Jílín", "Liáoníng",
+		"Qīnghǎi", "Shāndōng", "Shǎnxī", "Shānxī", "Sìchuān", "Yúnnán", "Zhèjiāng", "Guǎngxī",
+		"Mongolia Interior", "Níngxià", "Tíbet", "Xīnjiāng", "Chóngqìng", "Pekín", "Shanghái",
+		"Tiānjīn"]
+	},
+	{
+		"country": "Colombia",
+		"regions": [ "Amazonas", "Antioquia", "Arauca", "Archipiélago de San Andrés", "Atlántico",
+		"Bolívar", "Boyacá", "Caldas", "Caquetá", "Casanare", "Cauca", "Cesar", "Chocó", "Córdoba",
+		"Cundinamarca", "Guainía", "Guaviare", "Huila", "La Guajira", "Magdalena", "Meta", "Nariño",
+		"Norte de Santander", "Putumayo", "Quindío", "Risaralda", "Santander", "Sucre", "Tolima",
+		"Valle del Cauca", "Vaupés", "Vichada" ]
+	},
+	{
+		"country": "Comoras",
+		"regions": [ "Gran Comora", "Mwali", "Nzwani" ]
+	},
+	{
+		"country": "Congo",
+		"regions": [ "Bouenza", "Brazzaville", "Cuvette", "Cuvette Oeste", "Kouilou", "Lékoumou",
+		"Likouala", "Mesetas", "Niari", "Pointe-Noire", "Pool", "Sangha" ]
+	},
+	{
+		"country": "Costa Rica",
+		"regions": [ "Alajuela", "Cartago", "Guanacaste", "Heredia", "Limón", "Puntarenas",
+		"San José" ]
+	},
+	{
+		"country": "Croacia",
+		"regions": [ "Bjelovar-Bilogora", "Brod-Posavina", "Dubrovnik-Neretva", "Istria",
+		"Karlovac", "Koprivnica-Križevci", "Krapina-Zagorje", "Lika-Senj", "Međimurje",
+		"Osijek-Baranja", "Požega-Eslavonia", "Primorje-Gorski Kotar", "Šibenik-Knin",
+		"Sisak-Moslavina", "Split-Dalmacia", "Varaždin", "Virovitica-Podravina", "Vukovar-Srijem",
+		"Zadar", "Zagreb", "Zagreb" ]
+	},
+	{
+		"country": "Cuba",
+		"regions": [ "Artemisa", "Camagüey", "Ciego de Ávila", "Cienfuegos", "La Habana", "Granma",
+		"Guantánamo", "Holguín", "Las Tunas", "Matanzas", "Mayabeque", "Pinar del Río",
+		"Sancti Spíritus", "Santiago de Cuba", "Villa Clara" ]
+	},
+	{
+		"country": "Chipre",
+		"regions": [ "Cerinia", "Famagusta", "Larnaca", "Limasol", "Nicosia", "Pafos" ]
+	},
+	{
+		"country": "Denmark",
+		"regions": [ "North Denmark Region", "Region Hovedstaden", "Region Midtjylland",
+		"Region Sjaelland", "Region Syddanmark" ]
+	},
+	{
+		"country": "Djibouti",
+		"regions": [ "Diḫīl", "Taǧūrra", "ʕAlī Ṣabīḥ", "ʔArtā", "ʔAubūk" ]
+	},
+	{
+		"country": "Dominica",
+		"regions": [ "Saint Andrew", "Saint David", "Saint George", "Saint John", "Saint Joseph",
+		"Saint Luke", "Saint Mark", "Saint Patrick", "Saint Paul", "Saint Peter" ]
+	},
+	{
+		"country": "Dominican Republic",
+		"regions": [ "Azua", "Baoruco", "Barahona", "Dajabón", "Duarte", "El Seibo", "Elías Piña",
+		"Espaillat", "Hato Mayor", "Hermanas Mirabal", "Independencia", "La Altagracia",
+		"La Romana", "La Vega", "María Trinidad Sánchez", "Monseñor Nouel", "Monte Cristi",
+		"Monte Plata", "Pedernales", "Peravia", "Puerto Plata", "Samaná", "San Cristóbal",
+		"San José de Ocoa", "San Juan", "San Pedro de Macorís", "Sánchez Ramírez", "Santiago",
+		"Santiago Rodríguez", "Santo Domingo", "Valverde" ]
+	},
+	{
 		"country": "Venezuela",
 		"regions": [ "Delta Amacuro", "Distrito Capital", "Estado Amazonas", "Estado Anzoategui",
 		"Estado Apure", "Estado Aragua", "Estado Barinas", "Estado Bolivar", "Estado Carabobo",
